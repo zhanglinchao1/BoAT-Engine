@@ -2,7 +2,7 @@
 
 # Specify generator script
 # Specify generator script
-#如果仅安装了python3 请替换下列注释。
+#If only python3 is installed please replace the following comments.
 #PY             = python3
 PY             = python
 AUTOGEN_SCRIPT = $(BOAT_BASE_DIR)/BoAT-Engine/tools/fiscobcos2c.py
